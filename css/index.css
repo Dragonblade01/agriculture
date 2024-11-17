@@ -6,12 +6,12 @@
 
 @font-face {
     font-family: Arthead;
-    src: url(/fonts/Arthead-Regular\ FREE.otf);
+    src: url(fonts/Arthead-Regular\ FREE.otf);
 }
 
 .background {
     background-size: 100%;
-    background-image: url(/images/wide-shot-isolated-green-tree-near-pathway-beautiful-green-field.jpg);
+    background-image: url(images/wide-shot-isolated-green-tree-near-pathway-beautiful-green-field.jpg);
     background-size: cover;
     height: 100vh;
     width: 100vw;
