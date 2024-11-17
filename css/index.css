@@ -9,7 +9,7 @@
     font-family: Arthead;
     src: url(Agriculture/fonts/Arthead-Regular\ FREE.otf);
 }
-@media (min-width:2500px) {
+@media screen and (min-width:2500px) {
     /* 1st page */
     .background img {
         position: absolute;
