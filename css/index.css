@@ -9,63 +9,6 @@
     font-family: Arthead;
     src: url(Agriculture/fonts/Arthead-Regular\ FREE.otf);
 }
-@media screen and (min-width:2500px) {
-    /* 1st page */
-    .background img {
-        position: absolute;
-        height: 100%;
-        width: 100%;
-    }
-    .container .text h3{
-        position: relative;
-        left: -200px;
-    }
-    .container .text i{
-        position: relative;
-        left: -200px;
-    }
-    .text>h1 {
-        font-size: 12rem;
-        text-align: center;
-        padding: 0;
-        margin: 0;
-        position: relative;
-        left: -200px;
-    }
-    .text p {
-        font-size: 18px;
-        position: relative;
-        left: -200px;
-    }
-    /* 1st page end */
-
-    /* 3rd page starts */
-    .carousel .carousel-inner{
-        width: 1000px;
-        position: relative;
-        bottom: 680px;
-        left: 200px;
-    }
-    /* 3rd page ends */
-}
-
-.background img{
-    position: absolute;
-    height: 100%;
-    width: 100%;
-}
-
-/* HEADER ONLY */
-
-
-.header .navbar {
-    display: flex;
-    justify-content: center;
-    padding-top: 25px;
-    background: transparent;
-    backdrop-filter: blur(10px);
-
-}
 
 .navbar a {
     font-size: 18px;
